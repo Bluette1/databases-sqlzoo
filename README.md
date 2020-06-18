@@ -4,6 +4,7 @@ This is a project of the Databases course in the Main curriculum at [Microverse]
 
 # Databases: SQL Prpject  ([The Odin Project](https://www.theodinproject.com/courses/databases/lessons/sql))
 
+![demopage](./public/images/screenshot.png)
 
 ## Built With
 
