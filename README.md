@@ -15,15 +15,16 @@ This is a project of the Databases course in the Main curriculum at [Microverse]
 - This repository contains answers to the tutorials 0-9 on [SqlZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - This project is mainly about using queries to access information from a MySQL database .
 - The answers are grouped by the following tutorials
-    - SELECT basics
-    - SELECT FROM world
-    - SELECT FROM nobel
-    - SELECT in SELECT (Sub Queries)
-    - SUM & COUNT
-    - JOIN
-    - More JOIN
-    - Using NULL
-    - Self JOIN
+    - [SELECT basics](https://sqlzoo.net/wiki/SELECT_basics)
+    - [SELECT names](https://sqlzoo.net/wiki/SELECT_names)
+    - [SELECT FROM world](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
+    - [SELECT FROM nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
+    - [SELECT in SELECT (Sub Queries)](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
+    - [SUM & COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)
+    - [JOIN](https://sqlzoo.net/wiki/The_JOIN_operation)
+    - [More JOIN](https://sqlzoo.net/wiki/More_JOIN_operations)
+    - [Using NULL](https://sqlzoo.net/wiki/Using_Null)
+    - [Self JOIN](https://sqlzoo.net/wiki/Self_join)
 
 ## Live Demo
 
