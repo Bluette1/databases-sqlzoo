@@ -2,7 +2,7 @@
 
 This is a project of the Databases course in the Main curriculum at [Microverse](https:www.microverse.org/) - @microverseinc.
 
-# Databases: SQL Prpject  ([The Odin Project](https://github.com/TheOdinProject/curriculum/blob/master/ruby_programming/archive/basic_ruby/project_advanced_building_blocks.md#project-2-enumerable-methods))
+# Databases: SQL Prpject  ([The Odin Project](https://www.theodinproject.com/courses/databases/lessons/sql))
 
 
 ## Built With
