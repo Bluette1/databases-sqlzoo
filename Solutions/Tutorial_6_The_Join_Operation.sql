@@ -40,7 +40,6 @@ SELECT teamname, count(teamid)
   WHERE teamid = id
    GROUP BY teamname
 
-
 /*Question 10*/
 SELECT stadium, count(teamid)
   FROM game JOIN goal ON id=matchid
